@@ -1,4 +1,4 @@
-# Cluster-analsys-CABA
+# Cluster analsys CABA
 Análisis de los precios de inmueble en CABA 
 
 Este es mi primer proyecto analizando datos, en Jupyther Notbook con Python
